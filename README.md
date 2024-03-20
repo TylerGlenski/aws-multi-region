@@ -1,5 +1,5 @@
 ### Architecture
-- Two vpc's on in us-west-2 and one in us-east-1
+- Two vpc's one in us-west-2 and one in us-east-1
 - Vpc peering steup between the vpcs to use AWS low latency private network
 - Launch ec2 instances in placement groups so they are physically close in teh AZ datacenter for node to node low latency communication
 
