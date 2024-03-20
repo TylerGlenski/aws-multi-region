@@ -15,3 +15,6 @@
 - re work project structure to utilize depends_on: [] terraform functionality
 - look into AWS local zones
 - look into multi cloud networking via private networks
+- integrate aws private link
+- block internet from compute nodes
+- introduce a firewall vpc however that will take a hit on latency
