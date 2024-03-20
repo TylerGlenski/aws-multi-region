@@ -1,0 +1,4 @@
+## just incase
+*.aws
+*ansible-ssh
+*ansible-ssh.pub
